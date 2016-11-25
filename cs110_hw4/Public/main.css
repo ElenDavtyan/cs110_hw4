@@ -1,0 +1,34 @@
+body{
+	background-color: #201408;
+	background-image: url("http://www.cinemagraphe.com/_imagery/2015-04-04/marilyn-monroe-reading-enemy-of-the-people.jpg"); 
+    background-position: left top; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    margin-left: 630px;
+    color: white;
+}
+h1{
+	color: #E2D2C3;
+	font-size: 55px;
+	margin-left: 100px;
+}
+#div1{
+	float: right;
+}
+#searchbox{
+	background-color: #E2D2C3;
+}
+#addbox{
+	background-color: #E2D2C3;
+}
+#search{
+	background-color: #D0B69D;
+}
+#add{
+	background-color: #D0B69D;
+}
+.delete{
+	background-color: #D0B69D;
+	height: 20px;
+	width: 27px;
+}
